@@ -1,200 +1,168 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Mario Martínez García",
+    "label": "PhD Student - Machine Learning applied to Health",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "mariomartgarcia@gmail.com",
+    "phone": "+34 655 515 535",
+    "url": "https://github.com/mariomartgarcia",
+    "summary": "PhD student at Basque Center for Applied Mathematics (BCAM) working on machine learning applied to health, multi-objective optimization, privileged information, and distillation.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "Bilbao",
+      "countryCode": "ES",
+      "region": "Basque Country"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "Mario Martínez",
+        "url": "https://www.linkedin.com/in/mariomartgarcia/"
+      },
+      {
+        "network": "GitHub",
+        "username": "mariomartgarcia",
+        "url": "https://github.com/mariomartgarcia"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "Basque Center for Applied Mathematics (BCAM)",
+      "position": "PhD Student - Researcher",
+      "url": "https://www.bcamath.org/en/",
+      "startDate": "2021-06-01",
+      "endDate": "Present",
+      "summary": "Conducting research in machine learning applied to health, multi-objective optimization, privileged information, and distillation.",
+      "highlights": ["Machine learning applied to health", "Multi-objective optimization"]
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "Freelance",
+      "position": "Private Teacher",
+      "url": "",
+      "startDate": "2014-06-01",
+      "endDate": "2021-06-01",
+      "summary": "Provided private tutoring in mathematics and physics.",
+      "highlights": []
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
-  ],
-  "awards": [
+      "institution": "University of Murcia",
+      "location": "Murcia, Spain",
+      "url": "https://www.um.es/",
+      "area": "Physics",
+      "studyType": "BSc",
+      "startDate": "2015-09-01",
+      "endDate": "2019-07-01",
+      "score": "7.79/10",
+      "courses": ["Biomechanical study of the long jump - Application to the 2018 Birmingham World Indoor Athletics Championships"]
+    },
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "institution": "University of La Laguna",
+      "location": "La Laguna, Tenerife, Spain",
+      "url": "https://www.ull.es/",
+      "area": "Physics",
+      "studyType": "Exchange Program",
+      "startDate": "2017-09-01",
+      "endDate": "2018-07-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Open University of Catalonia",
+      "location": "Barcelona, Spain",
+      "url": "https://www.uoc.edu/portal/en/index.html",
+      "area": "Data Science",
+      "studyType": "MSc",
+      "startDate": "2019-09-01",
+      "endDate": "2021-01-01",
+      "score": "9.27/10",
+      "courses": ["Feasibility study of a spectra-based classification of the Gaia Photometric Alerts"]
     }
   ],
+  "awards": [],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "name": "Multi-objective Optimization using Metaheuristics",
+      "date": "2022-03-01",
+      "issuer": "BCAM",
+      "url": "https://bcam.org"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "name": "Machine Learning with Python",
+      "date": "2021-08-01",
+      "issuer": "DataCamp",
+      "url": "https://datacamp.org"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "name": "Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization",
+      "date": "2020-11-01",
+      "issuer": "deeplearning.ai",
+      "url": "https://www.coursera.org/account/accomplishments/certificate/MJFFKDBA26CU"
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Derivation of a Cost-Sensitive COVID-19 Mortality Risk Indicator Using a Multistart Framework",
+      "publisher": "IEEE International Conference on Bioinformatics and Biomedicine (BIBM)",
+      "releaseDate": "2021-12-01",
+      "url": "https://ieeexplore.ieee.org/document/9669288"
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Learning a Battery of COVID-19 Mortality Prediction Models by Multi-objective Optimization",
+      "publisher": "Artificial Intelligence in Medicine (AIME 2022)",
+      "releaseDate": "2022-06-01",
+      "url": "https://doi.org/10.1007/978-3-031-09342-5_32"
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
+      "name": "Machine Learning",
+      "level": "Expert",
+      "keywords": ["Python", "Data Analysis", "Statistical Analysis", "Modelling"]
+    },
+    {
+      "name": "Programming",
+      "level": "Advanced",
+      "keywords": ["Python", "SQL", "R", "Latex", "Tableau", "Excel"]
     }
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
+      "language": "Spanish",
+      "fluency": "Native"
     },
     {
       "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
+      "fluency": "C1"
+    },
+    {
+      "language": "French",
+      "fluency": "Basic"
     }
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
+      "name": "Artificial Intelligence Research",
+      "keywords": ["Privileged Information", "Knowledge Distillation", "Sports, Health, Finance"]
     }
   ],
   "references": [
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Prof. Héctor Espinos Morató",
+      "reference": "European University of Valencia, hector.espinos@universidadeuropea.es"
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Prof. Antonio Guirao Piñera",
+      "reference": "University of Murcia, aguirao@um.es"
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Feasibility Study of a Spectra-Based Classification of the Gaia Photometric Alerts",
+      "url": "https://github.com/mariomartgarcia/Feasibility_study_of_a_spectra-based_classification_of_the_Gaia_Photometric_Alerts"
     }
   ]
 }
