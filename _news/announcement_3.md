@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-I completed my stay as a visiting PhD student at École de Technologie Supérieure in Montreal emoji! :canada:
+I completed my stay as a visiting PhD student at École de Technologie Supérieure in Montreal :canada:
 
