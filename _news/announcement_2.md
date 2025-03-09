@@ -16,4 +16,3 @@ _Extending the learning using privileged information paradigm to logistic regres
 
 👉 Check it out!
 
-#[Check it out!](https://www.sciencedirect.com/science/article/abs/pii/S0925231224016400?via%3Dihub)
