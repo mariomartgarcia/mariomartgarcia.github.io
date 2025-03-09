@@ -68,6 +68,16 @@ serve_schema_org: false # Include Schema.org in the HTML head
 og_image: # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
+# Social integration
+# -----------------------------------------------------------------------------
+
+github_username: mariomartgarcia # your GitHub user name
+linkedin_username: mariomartgarcia # your LinkedIn user name
+scholar_userid: WF5qYZwAAAAJ&hl # your Google Scholar ID
+
+
+
+# -----------------------------------------------------------------------------
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
 
