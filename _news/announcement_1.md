@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I gave a talk at UPV-EHU in Donosti as part of the ISG Lecture Series.
+I gave a talk at UPV-EHU in Donosti as part of the ISG Lecture Series
