@@ -1,0 +1,199 @@
+{
+  "basics": {
+    "name": "Mario Martínez García",
+    "label": "PhD Student | Machine Learning",
+    "image": "",
+    "email": "mariomartgarcia@gmail.com",
+    "phone": "",
+    "url": "https://mariomartgarcia.github.io/",
+    "summary": "PhD student in machine learning with a focus on practical solutions. Research interests include privileged information, knowledge distillation, and multi-task learning applied to clinical and sports contexts. Creative, proactive, and adaptable with strong teamwork values.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Bilbao",
+      "countryCode": "ES",
+      "region": "Basque Country"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "mariomartgarcia",
+        "url": "https://www.linkedin.com/in/mariomartgarcia/"
+      },
+      {
+        "network": "GitHub",
+        "username": "mariomartgarcia",
+        "url": "https://github.com/mariomartgarcia"
+      },
+      {
+        "network": "Google Scholar",
+        "username": "WF5qYZwAAAAJ",
+        "url": "https://scholar.google.es/citations?user=WF5qYZwAAAAJ&hl=en"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Basque Center for Applied Mathematics (BCAM)",
+      "position": "PhD Student - Researcher",
+      "url": "https://www.bcamath.org",
+      "startDate": "2021-06-01",
+      "endDate": "",
+      "summary": "Research in privileged information, knowledge distillation, multi-objective optimization, and multi-task learning for supervised classification.",
+      "highlights": ["Research stay at LIVIA lab, Montreal (2024)"]
+    },
+    {
+      "name": "Freelance",
+      "position": "Private Teacher",
+      "startDate": "2014-06-01",
+      "endDate": "2021-06-01",
+      "summary": "Tutoring and academic support across science and mathematics subjects."
+    },
+    {
+      "name": "University of Murcia",
+      "position": "Intern - Biomechanics of the Locomotive System",
+      "startDate": "2019-01-01",
+      "endDate": "2019-07-01",
+      "summary": "Research internship on biomechanical systems."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Basque Center for Applied Mathematics (BCAM)",
+      "area": "Machine Learning",
+      "studyType": "PhD",
+      "startDate": "2021-06-01",
+      "endDate": "",
+      "location": "Bilbao, Spain"
+    },
+    {
+      "institution": "Open University of Catalonia",
+      "area": "Data Science",
+      "studyType": "MSc",
+      "startDate": "2019-09-01",
+      "endDate": "2021-01-01",
+      "score": "9.27/10",
+      "location": "Online"
+    },
+    {
+      "institution": "University of Murcia",
+      "area": "Physics",
+      "studyType": "BSc",
+      "startDate": "2015-09-01",
+      "endDate": "2019-07-01",
+      "score": "7.79/10",
+      "location": "Murcia, Spain"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Predoctoral Research Grant | Severo Ochoa",
+      "date": "",
+      "awarder": "Ministry of Science, Innovation and Universities - Spain",
+      "url": "",
+      "summary": "Reference: PRE2021-099279"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Machine Learning with Python",
+      "date": "2021-08-01",
+      "issuer": "DataCamp",
+      "url": "https://datacamp.org",
+      "icon": ""
+    },
+    {
+      "name": "Neural Network and Deep Learning",
+      "date": "2020-09-01",
+      "issuer": "deeplearning.ai",
+      "url": "https://www.coursera.org/account/accomplishments/certificate/5345B2X3TJN2",
+      "icon": ""
+    },
+    {
+      "name": "Data Science: Machine Learning",
+      "date": "2020-03-01",
+      "issuer": "HarvardX",
+      "url": "https://courses.edx.org/certificates/dcb26c4d1b6a4148aa89e2810595b394",
+      "icon": ""
+    },
+    {
+      "name": "Machine learning for Health and Bio",
+      "date": "2024-07-01",
+      "issuer": "University of Oxford",
+      "url": "https://ox.ac.uk",
+      "icon": ""
+    },
+    {
+      "name": "Multi-objective Optimization using Metaheuristics",
+      "date": "2022-03-01",
+      "issuer": "BCAM",
+      "url": "https://bcamath.org",
+      "icon": ""
+    }
+  ],
+  "publications": [
+    {
+      "name": "Teacher privileged distillation: How to deal with imperfect teachers?",
+      "publisher": "Knowledge-Based Systems",
+      "releaseDate": "2025-01-01",
+      "url": "https://doi.org/10.1016/j.knosys.2025.113338",
+      "summary": ""
+    },
+    {
+      "name": "Extending the learning using privileged information paradigm to logistic regression",
+      "publisher": "Neurocomputing",
+      "releaseDate": "2024-01-01",
+      "url": "https://doi.org/10.1016/j.neucom.2024.128869",
+      "summary": ""
+    },
+    {
+      "name": "Learning a logistic regression with the help of unknown features at prediction stage",
+      "publisher": "IEEE Conference on Artificial Intelligence",
+      "releaseDate": "2023-01-01",
+      "url": "https://ieeexplore.ieee.org/abstract/document/10194991",
+      "summary": ""
+    },
+    {
+      "name": "Learning a Battery of COVID-19 Mortality Prediction Models by Multi-objective Optimization",
+      "publisher": "AIME",
+      "releaseDate": "2022-01-01",
+      "url": "https://doi.org/10.1007/978-3-031-09342-5_32",
+      "summary": ""
+    },
+    {
+      "name": "Derivation of a Cost-Sensitive COVID-19 Mortality Risk Indicator Using a Multistart Framework",
+      "publisher": "IEEE BIBM",
+      "releaseDate": "2021-01-01",
+      "url": "https://ieeexplore.ieee.org/document/9669288",
+      "summary": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming",
+      "level": "",
+      "icon": "",
+      "keywords": ["Python", "R"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "English",
+      "fluency": "C1",
+      "icon": ""
+    },
+    {
+      "language": "French",
+      "fluency": "Basic knowledge",
+      "icon": ""
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}
