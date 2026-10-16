@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Mario Martínez García",
-    "label": "Lead Data Scientist | PhD in Machine Learning",
+    "label": "Data Scientist | PhD in Machine Learning",
     "image": "",
     "email": "mariomartgarcia@gmail.com",
     "phone": "",
     "url": "https://mariomartgarcia.github.io/",
-    "summary": "Lead Data Scientist with a PhD in Machine Learning. Experience in agentic AI, computer vision and optimization, with research on privileged information, knowledge distillation and multi-task learning applied to clinical and sports contexts. Creative, proactive and adaptable, with strong teamwork values.",
+    "summary": "Data Scientist with a PhD in Machine Learning. Experience in agentic AI, computer vision and optimization, with research on privileged information, knowledge distillation and multi-task learning applied to clinical and sports contexts. Creative, proactive and adaptable, with strong teamwork values.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -35,11 +35,11 @@
   "work": [
     {
       "name": "GOVOY",
-      "position": "Lead Data Scientist",
+      "position": "Data Scientist",
       "url": "",
       "startDate": "2026-01-01",
       "endDate": "",
-      "summary": "Leading data science and AI development in a startup environment: agentic AI, computer vision and optimization."
+      "summary": "Data science and AI development in a startup environment: agentic AI, computer vision and optimization."
     },
     {
       "name": "Basque Center for Applied Mathematics (BCAM)",

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I joined GOVOY as Lead Data Scientist :rocket:
+I joined GOVOY as Data Scientist :rocket:
