@@ -1,18 +1,18 @@
 {
   "basics": {
     "name": "Mario Martínez García",
-    "label": "PhD Student | Machine Learning",
+    "label": "Lead Data Scientist | PhD in Machine Learning",
     "image": "",
     "email": "mariomartgarcia@gmail.com",
     "phone": "",
     "url": "https://mariomartgarcia.github.io/",
-    "summary": "PhD student in machine learning with a focus on practical solutions. Research interests include privileged information, knowledge distillation, and multi-task learning applied to clinical and sports contexts. Creative, proactive, and adaptable with strong teamwork values.",
+    "summary": "Lead Data Scientist with a PhD in Machine Learning. Experience in agentic AI, computer vision and optimization, with research on privileged information, knowledge distillation and multi-task learning applied to clinical and sports contexts. Creative, proactive and adaptable, with strong teamwork values.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Bilbao",
-      "countryCode": "ES",
-      "region": "Basque Country"
+      "city": "",
+      "countryCode": "",
+      "region": ""
     },
     "profiles": [
       {
@@ -34,13 +34,23 @@
   },
   "work": [
     {
+      "name": "GOVOY",
+      "position": "Lead Data Scientist",
+      "url": "",
+      "startDate": "2026-01-01",
+      "endDate": "",
+      "summary": "Leading data science and AI development in a startup environment: agentic AI, computer vision and optimization."
+    },
+    {
       "name": "Basque Center for Applied Mathematics (BCAM)",
-      "position": "PhD Student - Researcher",
+      "position": "PhD Researcher",
       "url": "https://www.bcamath.org",
       "startDate": "2021-06-01",
-      "endDate": "",
+      "endDate": "2025-07-01",
       "summary": "Research in privileged information, knowledge distillation, multi-objective optimization, and multi-task learning for supervised classification.",
-      "highlights": ["Research stay at LIVIA lab, Montreal (2024)"]
+      "highlights": [
+        "Research stay at LIVIA lab, Montreal (2024)"
+      ]
     },
     {
       "name": "Freelance",
@@ -63,8 +73,9 @@
       "area": "Machine Learning",
       "studyType": "PhD",
       "startDate": "2021-06-01",
-      "endDate": "",
-      "location": "Bilbao, Spain"
+      "endDate": "2025-07-01",
+      "location": "Bilbao, Spain",
+      "score": "Summa cum laude"
     },
     {
       "institution": "Open University of Catalonia",
@@ -173,7 +184,10 @@
       "name": "Programming",
       "level": "",
       "icon": "",
-      "keywords": ["Python", "R"]
+      "keywords": [
+        "Python",
+        "R"
+      ]
     }
   ],
   "languages": [
