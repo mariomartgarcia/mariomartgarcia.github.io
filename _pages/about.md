@@ -6,9 +6,11 @@ subtitle: #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: profile.png
+  image: profile_teide.jpg
   image_circular: false # crops the image to make it circular
-  more_info: mariomartgarcia@gmail.com
+  more_info: >
+    <p>📍 Summit of Mount Teide, Tenerife</p>
+    <p>mariomartgarcia@gmail.com</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
